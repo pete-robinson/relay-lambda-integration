@@ -4,4 +4,4 @@
 # env params
 *.env
 *.DS_Store
-*/idea/
+*/.idea/
