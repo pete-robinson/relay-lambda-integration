@@ -1,4 +1,3 @@
-
 class MessageTransport:
 
     # constructor
